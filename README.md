@@ -137,13 +137,9 @@ Chương trình chính điều phối:
 
 Xem [requirements.txt](requirements.txt) để danh sách đầy đủ.
 
-## License
-
-MIT License
-
 ## Tác giả
 
-Your Name / Your Organization
+Phan Huỳnh Văn Đô
 
 ## Hỗ Trợ
 
