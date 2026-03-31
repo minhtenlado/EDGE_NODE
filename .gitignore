@@ -1,0 +1,54 @@
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Credentials & Secrets
+config/firebase-credentials.json
+*.json  # Credentials files
+.env.local
+.env.*.local
+
+# Large Model Files (use Git LFS or store separately)
+*.pth
+*.pt
+*.pkl
+*.h5
+models/weights/
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+data/raw/
+data/processed/
+outputs/
+temp/
+cache/
